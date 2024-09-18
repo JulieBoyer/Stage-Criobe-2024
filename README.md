@@ -1,0 +1,4 @@
+Le dossier era 5 contient tous les fichiers de réanalyse issus de la base ERA 5, le dossier intitulé salinité contient quant à lui les fichiers de réanalyse issus de la base ORAS5, tandis que le dossier donnees corail comporte toutes les données sur le recouvrement corallien fournies par le Criobe et le dossier relevé houlographe regroupe les données issues des différentes sondes. 
+Les programmes RecouvrementCorallien.ipynb, HouleSondeReanalyse.ipynb, SaliniteORAS5.ipynb, AutresIndicateursSonde.ipynb récupèrent les données in-situ ou de réanalyse, les traitent, et les transforment en bases de données, accessibles dans le dossier Tableaux finaux variables. 
+Ces tableaux sont utilisés par le programme AnalyseSobolPredictions.ipynb afin d'aboutir à des prédictions du recouvrement. 
+Le dossier output regroupe l'ensemble des graphiques et tableaux obtenus.
