@@ -25,7 +25,7 @@ Les récifs coralliens subissent une mortalité croissante liée aux pressions e
 | Données de réanalyse | ERA5 (atmosphère, vagues) et ORAS5 (salinité océanique), via le [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/) |
 | Données in-situ | Relevés de recouvrement corallien et mesures de houlographes (CRIOBE) |
 | Analyse de sensibilité | Indices de Sobol |
-| Prédiction | [à préciser : modèle(s) utilisé(s)] |
+| Prédiction | Random Forest, GradientBoosting |
 | Environnement | Jupyter Notebook |
 
 ---
